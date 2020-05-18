@@ -1,0 +1,7 @@
+; Hack_Dll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Hack_Dll"
+DESCRIPTION  'Hack_Dll Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
